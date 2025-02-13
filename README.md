@@ -17,3 +17,6 @@ Sebuah Repository yang literally **TIDAK ADA GUNANYA** kalian liat. Repo ini han
 
 ## Commit 5
 16 December 2024
+
+## Commit 6
+13 February 2025
