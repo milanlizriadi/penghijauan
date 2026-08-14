@@ -3,8 +3,4 @@ Sebuah Repository yang literally **TIDAK ADA GUNANYA** kalian liat. Repo ini han
 
 <hr>
 
-## Commit 1
-30 November 2024
-
-s s s
-s
+adaw
