@@ -3,7 +3,3 @@ Sebuah Repository yang literally **TIDAK ADA GUNANYA** kalian liat. Repo ini han
 
 <hr>
 
-adaw
-wadada
-sadwa
-adwa
